@@ -33,7 +33,7 @@ $ cargo clippy
 
 https://github.com/rust-lang/rust-clippy?tab=readme-ov-file#travis-ci
 
-以下のようにすることでwarning時にもCIで失敗する。（ワーニングでエラーになるようになる）
+以下のようにすることでwarning時にもCIで失敗するようになる。（ワーニングでエラーになるようになる）
 
 ```sh
 $ cargo clippy -- -D warnings
