@@ -16,6 +16,8 @@ https://nikolaivazquez.com/blog/divan/
 - こちらはアロケーションの測定ができる
 - よりシンプル（らしい）
 
+一方、分析についてはCriterionの方がしっかりできそう：https://zenn.dev/kotabrog/articles/bcb72de6ad9849#html%E3%81%A7%E3%81%AE%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88
+
 ## Getting Started
 
 https://lib.rs/crates/divan
